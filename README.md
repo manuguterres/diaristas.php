@@ -53,3 +53,6 @@ Sistema web completo em PHP + SQLite com telas (Bootstrap) — login por sessão
 - `logout.php` — Logout
 - `config.php` — Banco de dados e funções auxiliares
 - `assets/style.css` — Estilo adicional
+
+## Link para Vídeo Demonstrativo
+https://youtu.be/I0V3qXnd7oU

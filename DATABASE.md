@@ -91,8 +91,6 @@ erDiagram
 - `tipo` em `usuarios` define o papel (ex.: cliente/diarista) e direciona quais relações se aplicam.
 - O status de `disponibilidades` e `agendamentos` controla o fluxo de agendamento.
 
-## Esquema Visual
-![DER do Banco](mermaid-diagram.png)
 
 
 

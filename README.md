@@ -2,6 +2,14 @@
 
 Este projeto é um Produto Mínimo Viável (MVP) desenvolvido como Projeto Integrador para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. A plataforma foi criada para centralizar e facilitar o processo de contratação de serviços domésticos, ligando clientes a profissionais (diaristas) de forma rápida e segura.
 
+# Acesso para Aplicação online
+
+Hospedamos a aplicação na web, para melhor avaliação e uso. https://projeto.astech.site/
+
+Informações de usuário para login e teste: 
+Login: teste@teste.com
+Senha: teste
+
 ## 📱 Funcionalidades (Mobile-First)
 
 A interface foi inteiramente projetada com foco em dispositivos móveis (smartphones), proporcionando uma experiência de navegação fluida e semelhante a uma aplicação nativa.
